@@ -1,4 +1,4 @@
-# Projet réalisé en duo.
+# Projet réalisé en duo avec @dounyadelren.
 
 <p>Création d'un service permettant la visualisation des sorties dans le monde entier, et d'organiser une sortie avec des amis.</p>
 <p>Ce projet à été réalisé en 2 semaines, toute la partie back a été faite en Node.JS et les informations sont stockés dans une BDD mongoDB.</p>
